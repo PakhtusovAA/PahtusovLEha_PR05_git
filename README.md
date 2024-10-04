@@ -11,5 +11,5 @@
 
 Скрипты очень хорошо подходят для быстрого создания прототипов сложных приложений, даже не смотря на ограниченный набор языковых конструкций и определенную "медлительность".
 ## Основные термины
-![Изображение](http://www.youtube.com/watch?v=pdcKciqY8WU)
+![Изображение](https://www.google.ru/imgres?q=%D1%84%D0%BE%D1%82%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%BF&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F437%2F606%2Fpng-transparent-computer-keyboard-desktop-computers-computer-computer-network-computer-keyboard-computer.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3D%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF&docid=BVHHAHi6wkh5oM&tbnid=JGxYAsM4WUXnEM&vet=12ahUKEwjy7e3OrfSIAxW4_skDHZDZNO8QM3oECGIQAA..i&w=920&h=483&hcb=2&ved=2ahUKEwjy7e3OrfSIAxW4_skDHZDZNO8QM3oECGIQAA)
 
